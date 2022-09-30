@@ -10,7 +10,7 @@
 			@if($invoiceStatus === 'quote')
 				Quotation
 			@else
-				<img src="{{asset('img/RadianceLogo.jpg')}}" height="12%" />
+				<img src="{{asset('img/MadinaBilling.png')}}" height="12%" />
 			@endif
 		</div>
 	</htmlpageheader>
@@ -91,7 +91,7 @@
 	            <!-- <tr>
 	                <td>
 	                    <div>
-	                        <table class=<img src="{{asset('img/RadianceLogo.jpg')}}" height="70px" />"no_border no_row_border">
+	                        <table class=<img src="{{asset('img/MadinaBilling.png')}}" height="70px" />"no_border no_row_border">
 	                            <tbody>
 									<tr class="triple_details">
 										<td>Transporter Name</td>

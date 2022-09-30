@@ -233,6 +233,11 @@ Route::resource('transactions', 'Backend\TransactionController', [
 'as'            => 'Transactions',
 ])->middleware('AuthUser');
 
+
+Route::resource('report', 'Backend\ReportController', [
+'as'            => 'Reports',
+])->middleware('AuthUser');
+
 Route::resource('balancesheet', 'Backend\BalanceSheetController', [
 'as'            => 'BalanceSheet',
 ])->middleware('AuthUser');

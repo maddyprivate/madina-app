@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Radiance Gas - Login</title>
+    <title>Madina Chicken Suppliers - Login</title>
     <link rel='icon' type='image/png' href='{{ asset('img/favicon.png') }}' />
 
     <meta name="description" content="">
@@ -21,7 +21,7 @@
     <!-- theme stylesheet-->
     <link rel="stylesheet" href="{{ asset('css/adminstyle/style.default.css') }}" id="theme-stylesheet">
     <!-- Favicon-->
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <!-- <link rel="shortcut icon" href="img/favicon.ico"> -->
 
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -38,7 +38,7 @@
               <div class="info d-flex align-items-center">
                 <div class="content">
                   <div class="logo">
-                    <h1>Login - Radiance Gas</h1>
+                    <h1>Login - Madina Chicken Suppliers</h1>
                   </div>
                   <p>Billing System</p>
                 </div>

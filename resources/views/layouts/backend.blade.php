@@ -12,7 +12,7 @@
 		window.baseURL = {!! json_encode(url('/')) !!}
 	</script>
 
-	<title>Radiance Gas</title>
+	<title>Madina Chicken Suppliers</title>
 	<link rel='icon' type='image/png' href="{{ asset('img/favicon.png') }}" />
 
 	<!-- Bootstrap CSS-->
@@ -73,11 +73,11 @@
 								<!-- Navbar Brand -->
 								<a href="{{ Route('Dashboard') }}" class="navbar-brand">
 									<div class="brand-text brand-big">
-										<span>Radiance</span>
-										<strong>Gas</strong>
+										<span>MADINA CHICKEN SUPPLIERS</span>
+										<strong></strong>
 									</div>
 									<div class="brand-text brand-small">
-										<strong>RGP</strong>
+										<strong>MCS</strong>
 									</div>
 								</a>
 								<!-- Toggle Button-->
@@ -241,6 +241,9 @@
 								<li>
 									<a href="{{ route('BalanceSheet.balancesheet.index') }}">Balance Sheet</a>
 								</li>
+								<li>
+									<a href="{{ route('Reports.report.index') }}">Report</a>
+								</li>
 							</ul>
 						</li>
 						@endif
@@ -266,7 +269,7 @@
 						<div class="container-fluid">
 							<div class="row">
 								<div class="col-sm-6">
-									<p>Radiance Gas. © 
+									<p>Madina chicken Suppliers. © 
 										<a class="designer" href="http://RadianceLPG.com" target=_blank>
 											<!-- <span class="icon-designer">
 												<span class="path2"></span>

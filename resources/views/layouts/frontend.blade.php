@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>Radiance LPG Petrochem Private Limited | HTML Template</title>
+	<title>Madine Chicken Suppliers</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Industry.INC HTML Template">
 	<meta name="keywords" content="industry, html">

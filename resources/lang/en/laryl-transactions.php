@@ -19,6 +19,7 @@ return [
 
 	'table' => [
 		'#'					=> '#',
+		'Sr'				=> 'Sr.No.',
 		'transactionSerial'	=> 'Transaction Serial',
 		'date'				=> 'Date',
 		'dueDate'			=> 'Transaction Due Date',
